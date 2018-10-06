@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#createButton{
+    position: relative;
+    top: 26px;
+}
+
+.wrapper{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;    
+}
+
+.inner{
+    height: 100px;
+    border: 1px solid #555;
+}
+.rand{
+    position: absolute;
+    border-radius: 100%;
+}
